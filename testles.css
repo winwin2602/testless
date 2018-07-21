@@ -1,0 +1,695 @@
+@media screen and (max-width: 767px) {
+  .hoi1 {
+    display: none;
+  }
+}
+@media screen and (max-width: 750px) {
+  .hoi1 {
+    display: none;
+  }
+}
+@media screen and (max-width: 1205px) {
+  .hoi1 {
+    display: none;
+  }
+}
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+.khung {
+  float: left;
+  height: 5250px;
+  background: white;
+}
+.khung .bg {
+  float: left;
+  height: 600px;
+  background: url(anh/bg.jpeg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.khung .logo {
+  float: left;
+  height: 70px;
+  background: none;
+}
+.khung .logo h2 {
+  padding-top: 2%;
+  font-size: 40px;
+  font-family: "algerian";
+  margin-left: 150px;
+  color: white;
+}
+@media screen and (max-width: 767px) {
+  .khung .logo h2 {
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 30px;
+  }
+}
+.khung .menu {
+  background: none;
+}
+.khung .menu ul li {
+  margin-left: 15px;
+}
+.khung .menu ul li a {
+  margin-left: 20px;
+  padding-top: 20px;
+  color: white;
+  font-family: "time new roman";
+}
+.khung .menu ul li a:hover {
+  color: black;
+}
+.khung .chu {
+  float: left;
+  height: 8%;
+  background: none;
+  position: absolute;
+  top: 6%;
+  left: 16%;
+}
+.khung .chu h3 {
+  padding-top: -20%;
+  font-family: "Freestyle Script";
+  font-size: 70px;
+  text-align: center;
+  color: white;
+}
+@media screen and (max-width: 767px) {
+  .khung .chu h3 {
+    margin-left: -25%;
+  }
+}
+.khung .chu p {
+  text-align: center;
+  color: white;
+}
+@media screen and (max-width: 767px) {
+  .khung .chu p {
+    margin-left: -25%;
+    font-size: 15px;
+  }
+}
+.khung .chu button {
+  height: 50px;
+  width: 200px;
+  margin-left: 39%;
+}
+@media screen and (max-width: 767px) {
+  .khung .chu button {
+    margin-left: -10%;
+    font-size: 12px;
+  }
+}
+.khung .bg1 {
+  float: left;
+  height: 500px;
+  background: url(anh/3.jpeg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.khung .hoi2 {
+  float: left;
+  height: 200px;
+  background: none;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi2 {
+    height: 170px;
+  }
+}
+.khung .hoi2 h1 {
+  font-family: ".TMC-Ong DO";
+  padding-top: 10%;
+  color: green;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi2 h1 {
+    margin-top: 15%;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+.khung .hoi2 p {
+  margin-left: 80px;
+  font-family: "time new roman";
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi2 p {
+    text-align: center;
+    margin-left: -3%;
+  }
+}
+.khung .hoi3 {
+  float: left;
+  height: 400px;
+  background: none;
+}
+.khung .hoi3 .hoi3-1 {
+  float: left;
+  height: 400px;
+}
+.khung .hoi3 .hoi3-1 i {
+  font-size: 80px;
+  margin-left: 30%;
+  padding-top: 7%;
+  color: black;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi3 .hoi3-1 i {
+    margin-top: -10%;
+  }
+}
+.khung .hoi3 .hoi3-1 i:hover {
+  color: orange;
+}
+.khung .hoi3 .hoi3-1 h3 {
+  margin-left: 20px;
+  padding-top: 10%;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi3 .hoi3-1 h3 {
+    text-align: center;
+  }
+}
+.khung .hoi3 .hoi3-1 p {
+  padding-top: 10%;
+  text-align: center;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi3 .hoi3-1 p {
+    text-align: center;
+  }
+}
+.khung .bg2 {
+  float: left;
+  height: 200px;
+  background: url(anh/4.jpeg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.khung .hoi4 {
+  background: none;
+}
+.khung .hoi4 .chu1 p {
+  margin-left: 120px;
+  padding-top: 40px;
+  color: white;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi4 .chu1 p {
+    margin-left: -5%;
+  }
+}
+.khung .hoi4 .chu1 h1 {
+  font-family: ".VnParkH";
+  padding-top: 0%;
+  font-size: 80px;
+  color: #33FF33;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi4 .chu1 h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+}
+.khung .bg2 {
+  float: left;
+  height: 200px;
+  background: url(anh/4.jpeg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.khung .hoi5 {
+  background: none;
+  height: 150px;
+}
+.khung .hoi5 .chu1 h1 {
+  margin-left: 60px;
+  font-size: 30px;
+  font-family: "VNI-Trung kien";
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi5 .chu1 h1 {
+    margin-left: -6%;
+  }
+}
+.khung .hoi5 .chu1 p {
+  color: white;
+  margin-left: 20px;
+  text-align: center;
+  margin-left: 8px;
+}
+.khung .hoi6 {
+  float: left;
+  height: 700px;
+  background: white;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi6 {
+    height: 1450px;
+  }
+}
+.khung .hoi6 .hoi6-1 {
+  float: left;
+  height: 700px;
+  background: white;
+  padding-top: 4%;
+}
+.khung .hoi6 .hoi6-1 .hoi6-2 {
+  float: left;
+  height: 280px;
+  background: pink;
+}
+.khung .hoi6 .hoi6-1 .hoi6-2 .hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+.khung .hoi6 .hoi6-1 .hoi6-2 .hovereffect img {
+  height: 280px;
+  width: 100%;
+  position: relative;
+  transition: all 2s ease-in;
+}
+.khung .hoi6 .hoi6-1 .hoi6-2 .hovereffect:hover img {
+  -ms-transform: scale(2);
+  -webkit-transform: scale(2);
+  transform: scale(2);
+}
+.khung .hoi6 .hoi6-1 .hoi6-3 {
+  float: left;
+  height: 300px;
+  background: white;
+}
+.khung .hoi6 .hoi6-1 .hoi6-3 .chu2 {
+  margin-top: 30px;
+  text-align: center;
+}
+.khung .hoi6 .hoi6-1 .hoi6-3 h4 {
+  text-align: center;
+  padding-top: 8%;
+}
+.khung .hoi6 .hoi6-1 .hoi6-3 p {
+  text-align: center;
+  padding-top: 5%;
+}
+.khung .hoi7 {
+  float: left;
+  height: 500px;
+  background: green;
+}
+.khung .hoi7 .iframe {
+  height: 500px;
+  width: 100%;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi7 .iframe {
+    height: 300px;
+    width: 100%;
+  }
+}
+.khung .hoi8 {
+  float: left;
+  height: 600px;
+  background: white;
+}
+.khung .hoi8 .hoi8-1 {
+  float: left;
+  height: 600px;
+  background: white;
+}
+.khung .hoi8 .hoi8-1 .h1 {
+  padding-top: 12%;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-1 .h1 {
+    font-size: 5px;
+  }
+}
+.khung .hoi8 .hoi8-1 .h2 {
+  padding-top: 20%;
+  margin-left: -33%;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-1 .h2 {
+    font-size: 5px;
+  }
+}
+.khung .hoi8 .hoi8-1 .h3 {
+  padding-top: 18%;
+  margin-left: -13%;
+  font-size: 80px;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-1 .h3 {
+    font-size: 5px;
+  }
+}
+.khung .hoi8 .hoi8-1 .h4 {
+  margin-left: -25px;
+  padding-top: 23%;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-1 .h4 {
+    font-size: 5px;
+  }
+}
+.khung .hoi8 .hoi8-1 .h5 {
+  opacity: 0.5;
+  font-size: 20px;
+  padding-top: 27%;
+  margin-left: -159px;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-1 .h5 {
+    font-size: 5px;
+  }
+}
+.khung .hoi8 .hoi8-1 i {
+  opacity: 0.5;
+}
+@media screen and (max-width: 776px) {
+  .khung .hoi8 .hoi8-1 {
+    display: none;
+  }
+}
+.khung .hoi8 h4 {
+  position: absolute;
+  top: 70%;
+  font-family: "gabriola";
+  left: 25%;
+  font-size: 30px;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 h4 {
+    font-size: 5px;
+  }
+}
+.khung .hoi8 .hoi8-2 {
+  float: left;
+  height: 600px;
+  background: white;
+}
+.khung .hoi8 .hoi8-2 .hoi8-2a {
+  float: left;
+  height: 200px;
+  background: white;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-2 .hoi8-2a {
+    height: 100px;
+  }
+}
+.khung .hoi8 .hoi8-2 .hoi8-2a h5 {
+  padding-top: 10%;
+  margin-left: 40%;
+  font-family: ".VnParkH";
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-2 .hoi8-2a h5 {
+    margin-left: -8%;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+.khung .hoi8 .hoi8-2 .hoi8-2a h2 {
+  margin-left: 22%;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-2 .hoi8-2a h2 {
+    display: none;
+  }
+}
+.khung .hoi8 .hoi8-2 .hoi8-2b {
+  float: left;
+  height: 400px;
+  background: white;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-2 .hoi8-2b {
+    height: 200px;
+  }
+}
+.khung .hoi8 .hoi8-2 .hoi8-2b .hoi8-2c {
+  float: left;
+  height: 400px;
+  background: white;
+  padding-top: 5%;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi8 .hoi8-2 .hoi8-2b .hoi8-2c {
+    display: none;
+    font-size: 12px;
+  }
+}
+.khung .hoi8 .hoi8-2 .hoi8-2b .hoi8-2c input {
+  margin-left: 50px;
+}
+.khung .hoi8 .hoi8-2 .hoi8-2b .hoi8-2c p {
+  margin-left: 32%;
+  margin-top: -30px;
+}
+.khung .hoi8 .hoi8-2 .hoi8-2b .hoi8-2c button {
+  margin-left: 30%;
+  border-radius: 20px;
+}
+.khung .hoi9 {
+  float: left;
+  height: 400px;
+  background: pink;
+  width: 100%;
+}
+.khung .hoi9 img {
+  height: 400px;
+  width: 100%;
+}
+.khung .hoi10 {
+  float: left;
+  height: 450px;
+  background: white;
+}
+.khung .hoi10 .hoi10-1 {
+  height: 100px;
+}
+.khung .hoi10 .hoi10-1 p {
+  text-align: center;
+  padding-top: 4%;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi10 .hoi10-1 p {
+    padding-top: 10%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi10 .hoi10-2 {
+    height: 350px;
+  }
+}
+.khung .hoi10 .hoi10-2 button {
+  width: 120px;
+  margin-left: 45%;
+  color: yellow;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi10 .hoi10-2 button {
+    margin-left: 25%;
+    padding-top: -5%;
+  }
+}
+.khung .hoi10 .hoi10-2 button:hover {
+  color: yellow;
+}
+.khung .hoi10 .hoi10-2 p {
+  font-family: "time new roman";
+  text-align: center;
+}
+.khung .hoi10 .hoi10-2 h3 {
+  text-align: center;
+  font-family: "time new roman";
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi10 .hoi10-2 h3 {
+    font-size: 20px;
+  }
+}
+.khung .hoi10 .hoi10-2 h3 p {
+  font-size: 10px;
+  padding-top: 1%;
+  opacity: 0.5;
+}
+.khung .hoi10 .hoi10-2 hr {
+  height: 2px;
+  margin-top: 7%;
+}
+.khung .hoi11 {
+  background: white;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi11 {
+    height: 100px;
+  }
+}
+.khung .hoi11 .chu2 h1 {
+  color: green;
+  font-family: "mistral";
+  text-align: center;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi11 .chu2 h1 {
+    margin-top: -20%;
+  }
+}
+.khung .hoi11 .chu2 p {
+  margin-left: 20px;
+}
+.khung .hoi12 {
+  float: left;
+  height: 700px;
+  background: white;
+}
+.khung .hoi12 .hoi12-1 {
+  padding-top: 3%;
+  float: left;
+  height: 700px;
+  background: white;
+}
+.khung .hoi12 .hoi12-1 .hoi12-2 {
+  float: left;
+  background: white;
+  height: 300px;
+}
+.khung .hoi12 .hoi12-1 .hoi12-2 .hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+.khung .hoi12 .hoi12-1 .hoi12-2 .hovereffect img {
+  height: 300px;
+  width: 100%;
+  position: relative;
+  -webkit-transition: all .4s linear;
+  transition: all .4s linear;
+}
+.khung .hoi12 .hoi12-1 .hoi12-2 .hovereffect:hover img {
+  -webkit-transform: translate3d(0, -10%, 0);
+  transform: translate3d(0, -10%, 0);
+}
+.khung .hoi12 .hoi12-1 .hoi12-3 img {
+  height: 300px;
+  width: 91%;
+  position: relative;
+  -webkit-transition: all .4s linear;
+  transition: all .4s linear;
+}
+.khung .hoi12 .hoi12-1 .hoi12-3:hover img {
+  opacity: 0.6;
+  filter: alpha(opacity=80);
+  -webkit-transform: translate3d(1, 1, 1);
+  transform: translate3d(1, 1, 1);
+}
+.khung .hoi12 .hoi12-1 .hoi12-4 img {
+  height: 300px;
+  width: 91%;
+  position: relative;
+  -webkit-transition: all .4s linear;
+  transition: all .4s linear;
+}
+.khung .hoi12 .hoi12-1 .hoi12-4:hover img {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.khung .hoi13 {
+  float: left;
+  height: 2px;
+  background: gray;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi13 {
+    display: none;
+  }
+}
+.khung .hoi14 {
+  float: left;
+  height: 250px;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi14 .hoi14-1 {
+    margin-top: 60%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-3 {
+    display: none;
+  }
+}
+.khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-3 h3 {
+  font-family: "algerian";
+  padding-top: 25%;
+  opacity: 0.5;
+}
+.khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-4 {
+  float: left;
+  height: 250px;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-4 {
+    display: none;
+  }
+}
+.khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-4 .a {
+  height: 250px;
+  padding-top: 30%;
+}
+.khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-4 .a li {
+  display: list-item;
+  padding-top: 30%;
+  line-height: 30%;
+  opacity: 0.5;
+}
+.khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-5 {
+  float: left;
+  height: 250px;
+}
+.khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-5 .b {
+  height: 250px;
+  padding-top: 20%;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-5 .b {
+    margin-top: 570%;
+  }
+}
+.khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-5 .b i {
+  opacity: 0.5;
+  font-size: 15px;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-5 .b i {
+    padding-top: 50%;
+    margin-left: 14%;
+  }
+}
+.khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-5 .b p {
+  font-size: "time new roman";
+  opacity: 0.5;
+}
+@media screen and (max-width: 767px) {
+  .khung .hoi14 .hoi14-1 .hoi14-2 .hoi14-5 .b p {
+    padding-top: 5%;
+    font-size: 13px;
+    text-align: center;
+  }
+}
